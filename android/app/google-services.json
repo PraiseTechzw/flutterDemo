@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888933399257",
+    "project_id": "toto-bb516",
+    "storage_bucket": "toto-bb516.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888933399257:android:b8daea61eecb4f789e1cc8",
+        "android_client_info": {
+          "package_name": "com.example.tot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPdQLeoeDzQPRgR8j0_ndLVljB4h480DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
